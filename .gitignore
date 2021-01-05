@@ -1,4 +1,5 @@
+img/profilepics
+package-lock.json
+.idea
 
-js/lib/bchdgrpc.js
-js/lib/snuownd.js
-js/scratch.js
+img/niftytheme/debug.log
